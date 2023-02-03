@@ -19,7 +19,7 @@
 {
   "status": 200,
   "data": {
-        "balance": 42
+        "balance": 1000
     }
 }
 ```
